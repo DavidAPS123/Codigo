@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "propane-flag-380915",
+  "private_key_id": "7ce3f8e92fb7bf39c12dc2e403a207197c67beb7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3+GOX32OG/pvZ\nbC6rWJ0XW122Tjl0azqoPFtsAxkqHTU8h6mz/QwrF2WRYao2UJ7GVlChCtSqyngl\nHYL10CEJekal9RJzrPAAWJgtM67NQKgXm5/J34vPsxzKYlfrnVivx69Mb5MbyA6p\nQaRPqovqxcci8f6UKzMiaH9tkqVT1XKYbKJOPVtIK9Tq719TXHLrvc/vpAsU45Xe\nQqNX4CVIuXVf/KIw+vzDwfcCbkVfN+yErfkrxqJi1jr+r25RClvGzZ5qHA8/zgZc\n6IaQ/BxGBoEFJtDaVqEkFNWMvj8dupOax7CIVxRRvC5einvLR8i8JabdR1K5gQ+N\nUjWgXO4PAgMBAAECggEAF7dJG3x8R5xN+gbks0kOo0Kvf39xD619F9AEFxYFKfUu\n9jkk6uONrIZtHQNCnpLhDP92kHQle0jzmRFHXynwAFlHf0BrGwdpvxmssHMPrz0N\nDlINFMihLOrRpNNtsx2LH8n1srxVcgjlvvML3AtH00GgzMP2hiJVirN+7eCwOHC9\nI+N8g/sMWDdvz7giiynbbgOo7qq7wzVFh6WZBcjqSCfhPi0WsvX/6D4z0ktyvAmb\nG+deYwnMhJr0RZgVTKXNKevRhm8gCtVUzYgDj8VOyWmohHSee6jUhmf09dYOqGQh\nKYydIRZmE6hlHge4QpBq4UA+Qe1BDLvH3YNy0ysxgQKBgQDpzZ99ynOIrtUlbFfz\nMMHTdJVis3zaP2Bycl0RBDhg3Xb/qDNg1ynCdKk3RbtE2wxi8Kr8P9QHlPE9CxfR\nxOI9c4TQWzVobbZDyRr7IZ+T023DbBD8Pi4hSAHf8FuJAyzRsBcrB6Lk5CyyHsPs\nxaFom5CqvHidW6OorS5/2S2CgQKBgQDJb57/K2XRl0zGs1UZpWrdhrrjrC/YCbxD\nnnc1l+knwmqNK1w0dMeFLQzHLRfvPrl2xqVNinpl4tVgHGWxhitOSRLLahKmVk0K\naR0wS6AG+pr8KqX1z8wTOPprYgZeVnc6FgbvaiTLekXQkIiJ1PsRs9t+33KEhX0l\noMkF+10IjwKBgDTwKPe7elNtereBg5x94rU1RYnWqCNmjDj9qhLrSLSuEH6soA2C\nSmNMNPBd6pwZmQFiCuUYsrKQx9qRg3Asyyks2dqvfDVL+iP5ChHouBAppEXGV0Y1\n8g35FuuUqbUpMeG8pFJK5Vg8Td561tPqn7Rm3Oe7yveeQz0zET9DdmmBAoGBAIk4\nBHOGuKGCE8b3uuzxhk7JzN3zGdRtLVZSyJo1lZqEEdmAxBrnwlKyUZYM3dUYQXbr\n8wdTYfWuA/So441+/Fkj5i2zYGj3ORvyZvPTUHvwk0tcMhm1KCugENa9u+DfvfBP\nuQG2qMID1TMyghCCiVWR0+Aljvk/hfTwBoCQrtt5AoGALpW3d+iKOc6Uy7ylcqGS\n9C00CGQGWvCdEFbtlt0lE7+fd/01LnWOWIrgG3HsoovMfO+LcgWtaD1J5yFrPi36\n1jcpBe5PGyTbPO8DlUJRUADg62F5Flr1hFrm8Gw3vYZAfi34bTKHthU10ttrx/ah\nOUK5ADEkKu4Dsk+8LpLSx5Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "imagen-ocr@propane-flag-380915.iam.gserviceaccount.com",
+  "client_id": "108620159697187558441",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/imagen-ocr%40propane-flag-380915.iam.gserviceaccount.com"
+}
